@@ -1,0 +1,6 @@
+id_proveedor,familia,lead_time_medio_dias,lead_time_desv_dias,pedido_minimo_uds
+P01,calzado,21,2,50
+P02,calzado,28,3,50
+P03,textil,21,2,60
+P04,calzado,35,20,40
+P05,textil,28,4,60

@@ -1,0 +1,6 @@
+id_evento,evento,fecha_inicio,fecha_fin
+RI25,rebajas_invierno,2025-01-06,2025-01-19
+RV25,rebajas_verano,2025-06-30,2025-07-13
+BF25,black_friday,2025-11-24,2025-11-30
+NAV25,navidad,2025-12-15,2025-12-28
+REY26,reyes,2025-12-29,2026-01-04
