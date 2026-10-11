@@ -4,13 +4,6 @@ Detalle de lo que muestra cada página del dashboard, con las cifras que lo sost
 
 **Pregunta de fondo:** ¿cómo reducir a la vez las roturas de stock y el capital inmovilizado del almacén central, y con qué política de reposición?
 
-| Página | Pregunta | Respuesta en una línea |
-|---|---|---|
-| 1. Rotura | ¿Dónde se rompe el stock? | En las tallas centrales, en los picos de demanda y en el proveedor P04 |
-| 2. Inmovilizado | ¿Cuánto capital está parado? | 221.148 €, el 36% del stock, todo en moda (restos y temporada PV25) |
-| 3. Reposición | ¿Qué política corresponde? | Reducir el stock medio un 57% (351.241 €) ahorraría 70.248 € al año en costes de mantenerlo |
-| 4. Pedido | ¿Qué hay que pedir y qué liquidar? | A 22/12/2025, pedir 122 referencias (241.916 €) y liquidar 225 (221.148 €) |
-
 ---
 
 ## Página 1. ¿Dónde se rompe el stock?
